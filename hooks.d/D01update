@@ -8,7 +8,7 @@
 
 set -ex
 
-repodir=/home/sous/git-precise
+repodir=/home/sous/git-core-precise
 
 cat $repodir/apt-key.gpg | apt-key add -
 
